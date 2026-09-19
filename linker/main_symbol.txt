@@ -1,0 +1,6 @@
+Sembol          | Adres      | Tip       
+---------------------------------------------
+led_islem       | 0x00000000 | EXTERN    
+_start          | 0x00000000 | LOCAL     
+ana_dongu       | 0x00000004 | LOCAL     
+bitis           | 0x00000010 | LOCAL     

@@ -1,0 +1,5 @@
+Sembol          | Adres      | Tip       
+---------------------------------------------
+led_islem       | 0x00000000 | GLOBAL    
+bekle1          | 0x00000008 | LOCAL     
+bekle2          | 0x00000018 | LOCAL     

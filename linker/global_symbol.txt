@@ -1,0 +1,3 @@
+Global Sembol   | Kesin Adres 
+-----------------------------------
+led_is          | 0x00000014
